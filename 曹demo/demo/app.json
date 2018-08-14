@@ -1,0 +1,13 @@
+{
+    "pages": [ 
+      "index"
+    ],
+    "window": {
+      "navigationBarBackgroundColor": "#000000",
+      "navigationBarTextStyle": "white",
+      "navigationBarTitleText": "字体改变大小",
+      "backgroundColor": "#000000",
+      "backgroundTextStyle": "light",
+      "enablePullDownRefresh": false
+    }
+}

@@ -1,0 +1,4 @@
+<view class="view" style="font-size:{{fontSize}}pt">软件工程训练营</view>
+<button class="btn" type="default" bindtap="large">点击字体变大</button>
+<button class="btn" type="default" bindtap="small">点击字体变小</button>
+<button class="btn" type="default" bindtap="back">点击恢复字体</button>

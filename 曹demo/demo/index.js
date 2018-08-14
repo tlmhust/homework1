@@ -1,0 +1,20 @@
+Page({
+    data:{
+        fontSize:15
+    },
+    large(){
+        this.setData({
+            fontSize:this.data.fontSize+1
+        })
+    },
+    small(){
+        this.setData({
+            fontSize:this.data.fontSize-1
+        })
+    },
+   back() {
+    this.setData({
+      fontSize:15
+    })
+  }
+})
