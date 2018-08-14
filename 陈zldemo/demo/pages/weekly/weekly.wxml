@@ -1,0 +1,8 @@
+<view class='container'>
+ <text class="info">本周知识</text>
+ <image src="/images/IMG_3783.JPG"></image>
+ <text>
+桃金娘。果子俗名“山稔”、“倒捻”，据唐代《岭表录异》记载：“子如软柿，头上有四叶，如柿蒂。食者必捻其蒂，故谓之‘倒捻子’。
+</text>
+ <text>每周更新博物小知识</text>
+ </view>
