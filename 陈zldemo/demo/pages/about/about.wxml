@@ -2,7 +2,7 @@
  <image class='about-banner'src="/images/IMG_3769.JPG"></image>
  <text class="info">博物小百科</text>
  <view>
- <navigator style='display:inline;' url='/pages/weekly/weekly'open-type="redirect" hover-class='nav-hover'>每周更新</navigator>
+ <navigator style='display:inline;' url='/pages/weekly/weekly'hover-class='nav-hover' class='nav-default'>每周更新</navigator>
  <text>博物小知识</text>
  </view>
  <text>我的微博：weibo.com/simbasong</text>

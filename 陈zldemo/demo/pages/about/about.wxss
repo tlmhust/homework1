@@ -9,6 +9,10 @@
   height:375rpx;
 
 }
+
+.nav-default{
+  color:blueviolet
+}
 .nav-hover{
-  color:red;
+  color:greenyellow;
 }

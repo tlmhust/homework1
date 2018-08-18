@@ -1,3 +1,18 @@
 {
-  "pages":["pages/about/about","pages/weekly/weekly"]
+  "pages":["pages/about/about","pages/weekly/weekly"]  ,"tabBar": {
+    "list": [
+      {
+        "text": "每周更新",
+        "pagePath": "pages/weekly/weekly",
+        "iconPath": "images/icon/weekly.png",
+        "selectedIconPath": "images/icon/weekly1.png"
+      },
+      {
+        "text": "关于",
+        "pagePath": "pages/about/about",
+        "iconPath": "images/icon/about.png",
+        "selectedIconPath": "images/icon/about1.png"
+      }
+    ]
+  }
 }
