@@ -1,17 +1,17 @@
-# 谭力铭的demo
+# U201611的demo
 ## 简单计算器程序
 ### 本文一共分为以下三个部分.  
-1.功能介绍  
+1.项目主题  
 2.测试方法  
-3.代码分析  
+3.代码分析
 
-## 1.功能介绍  
+## 1.项目主题  
 ### 这是一个简单的计算器程序,运行结果如下图所示.    
-![图片](https://thumbnail0.baidupcs.com/thumbnail/5d53be8e6333e4340ea4ccbb0a80e822?fid=2550669515-250528-656758070177456&time=1534244400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-uX7AHkaUHFiB4n6mGOoY%2FnJVQ1U%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=8695700270090074587&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)  
+![图片1](\picture\123.png)
 ### 该计算器有以下两个功能
 (1)能够进行数字运算  
 (2)都够保存历史纪录
-
+         
 ## 2.测试方法
 ### 用VS2017打开WpfApp4.sln文件然后开始测试.   
 (1)数字运算测试  
@@ -19,7 +19,7 @@
 (2)保存历史纪录测试
 进行一定的计算后,点击左上角的编辑-保存历史纪录,则可以在以下目录中找到一个文本文件TanLimingdemo\WpfApp4\WpfApp4\bin\Debug\result.txt  
 则可以在那个txt文件中找到如图所示结果  
-![图片](https://thumbnail0.baidupcs.com/thumbnail/bd592a1fa0e61683d27f587040ab9275?fid=2550669515-250528-333227522449279&time=1534244400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-JpAu%2B1mLYYFIjnIDeaRNEiTX1oA%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=8696017099849410150&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)  
+![图片2](\picture\456.png) 
 
 该图片记录了之前几次运算的历史纪录.
 ## 3.代码分析
