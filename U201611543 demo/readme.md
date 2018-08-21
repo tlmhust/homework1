@@ -7,7 +7,7 @@
 
 ## 1.项目主题  
 ### 这是一个简单的计算器程序,运行结果如下图所示.    
-![图片1](/picture/123.png)
+![图片1](https://raw.githubusercontent.com/tlmhust/homework1/master/U201611543%20demo/picture/123.png)
 ### 该计算器有以下两个功能
 (1)能够进行数字运算  
 (2)都够保存历史纪录
@@ -21,7 +21,7 @@
 U201611543 demo\WpfApp4\WpfApp4\bin\Debug\result.txt  
 则可以在那个txt文件中找到如图所示结果    
 
-![图片2](/picture/456.png) 
+![图片2](https://raw.githubusercontent.com/tlmhust/homework1/master/U201611543%20demo/picture/456.png) 
 
 该图片记录了之前几次运算的历史纪录.
 ## 3.代码分析
